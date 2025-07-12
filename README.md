@@ -1,6 +1,6 @@
 ## Effects of Extended Features on BERT Performance: Depression Detection
 
-<b>Official implementation of the [SIU 2025](https://www.ieee.org.tr/33-ieee-sinyal-isleme-ve-iletisim-uygulamalari-kurultayi-siu/) paper.</b>
+<b>Official implementation of the [SIU 2025](https://siu2025.isikun.edu.tr/index_en.php) paper.</b>
 
 Emirhan Balcı*, Esra Saraç
 
